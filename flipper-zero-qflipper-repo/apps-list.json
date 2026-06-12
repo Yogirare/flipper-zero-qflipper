@@ -1,0 +1,1418 @@
+[
+  {
+    "Category": "Bluetooth",
+    "Name": "bt_trigger.fap",
+    "RelativePath": "Bluetooth/bt_trigger.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Bluetooth\\bt_trigger.fap"
+  },
+  {
+    "Category": "Bluetooth",
+    "Name": "btremote_kodi.fap",
+    "RelativePath": "Bluetooth/btremote_kodi.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Bluetooth\\btremote_kodi.fap"
+  },
+  {
+    "Category": "Bluetooth",
+    "Name": "claude_remote_ble.fap",
+    "RelativePath": "Bluetooth/claude_remote_ble.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Bluetooth\\claude_remote_ble.fap"
+  },
+  {
+    "Category": "Bluetooth",
+    "Name": "pc_monitor.fap",
+    "RelativePath": "Bluetooth/pc_monitor.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Bluetooth\\pc_monitor.fap"
+  },
+  {
+    "Category": "Games",
+    "Name": "4inrow.fap",
+    "RelativePath": "Games/4inrow.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Games\\4inrow.fap"
+  },
+  {
+    "Category": "Games",
+    "Name": "air_labyrinth.fap",
+    "RelativePath": "Games/air_labyrinth.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Games\\air_labyrinth.fap"
+  },
+  {
+    "Category": "Games",
+    "Name": "arddrivin.fap",
+    "RelativePath": "Games/arddrivin.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Games\\arddrivin.fap"
+  },
+  {
+    "Category": "Games",
+    "Name": "ardugolf.fap",
+    "RelativePath": "Games/ardugolf.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Games\\ardugolf.fap"
+  },
+  {
+    "Category": "Games",
+    "Name": "arduventure.fap",
+    "RelativePath": "Games/arduventure.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Games\\arduventure.fap"
+  },
+  {
+    "Category": "Games",
+    "Name": "asteroids.fap",
+    "RelativePath": "Games/asteroids.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Games\\asteroids.fap"
+  },
+  {
+    "Category": "Games",
+    "Name": "catacombs.fap",
+    "RelativePath": "Games/catacombs.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Games\\catacombs.fap"
+  },
+  {
+    "Category": "Games",
+    "Name": "chess_clock.fap",
+    "RelativePath": "Games/chess_clock.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Games\\chess_clock.fap"
+  },
+  {
+    "Category": "Games",
+    "Name": "chess.fap",
+    "RelativePath": "Games/chess.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Games\\chess.fap"
+  },
+  {
+    "Category": "Games",
+    "Name": "citybloxx.fap",
+    "RelativePath": "Games/citybloxx.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Games\\citybloxx.fap"
+  },
+  {
+    "Category": "Games",
+    "Name": "color_guess.fap",
+    "RelativePath": "Games/color_guess.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Games\\color_guess.fap"
+  },
+  {
+    "Category": "Games",
+    "Name": "dice_app.fap",
+    "RelativePath": "Games/dice_app.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Games\\dice_app.fap"
+  },
+  {
+    "Category": "Games",
+    "Name": "doom2.fap",
+    "RelativePath": "Games/doom2.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Games\\doom2.fap"
+  },
+  {
+    "Category": "Games",
+    "Name": "drifter.fap",
+    "RelativePath": "Games/drifter.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Games\\drifter.fap"
+  },
+  {
+    "Category": "Games",
+    "Name": "dvd_bounce.fap",
+    "RelativePath": "Games/dvd_bounce.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Games\\dvd_bounce.fap"
+  },
+  {
+    "Category": "Games",
+    "Name": "etch.fap",
+    "RelativePath": "Games/etch.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Games\\etch.fap"
+  },
+  {
+    "Category": "Games",
+    "Name": "fighterjet.fap",
+    "RelativePath": "Games/fighterjet.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Games\\fighterjet.fap"
+  },
+  {
+    "Category": "Games",
+    "Name": "flipper_hero.fap",
+    "RelativePath": "Games/flipper_hero.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Games\\flipper_hero.fap"
+  },
+  {
+    "Category": "Games",
+    "Name": "flipper_pong.fap",
+    "RelativePath": "Games/flipper_pong.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Games\\flipper_pong.fap"
+  },
+  {
+    "Category": "Games",
+    "Name": "furious_birds.fap",
+    "RelativePath": "Games/furious_birds.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Games\\furious_birds.fap"
+  },
+  {
+    "Category": "Games",
+    "Name": "game_vexed.fap",
+    "RelativePath": "Games/game_vexed.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Games\\game_vexed.fap"
+  },
+  {
+    "Category": "Games",
+    "Name": "gameoflife.fap",
+    "RelativePath": "Games/gameoflife.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Games\\gameoflife.fap"
+  },
+  {
+    "Category": "Games",
+    "Name": "hangman.fap",
+    "RelativePath": "Games/hangman.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Games\\hangman.fap"
+  },
+  {
+    "Category": "Games",
+    "Name": "laser_tag.fap",
+    "RelativePath": "Games/laser_tag.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Games\\laser_tag.fap"
+  },
+  {
+    "Category": "Games",
+    "Name": "mandelbrotset.fap",
+    "RelativePath": "Games/mandelbrotset.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Games\\mandelbrotset.fap"
+  },
+  {
+    "Category": "Games",
+    "Name": "matagotchi.fap",
+    "RelativePath": "Games/matagotchi.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Games\\matagotchi.fap"
+  },
+  {
+    "Category": "Games",
+    "Name": "microcity.fap",
+    "RelativePath": "Games/microcity.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Games\\microcity.fap"
+  },
+  {
+    "Category": "Games",
+    "Name": "microtd.fap",
+    "RelativePath": "Games/microtd.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Games\\microtd.fap"
+  },
+  {
+    "Category": "Games",
+    "Name": "montyhall.fap",
+    "RelativePath": "Games/montyhall.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Games\\montyhall.fap"
+  },
+  {
+    "Category": "Games",
+    "Name": "myblab.fap",
+    "RelativePath": "Games/myblab.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Games\\myblab.fap"
+  },
+  {
+    "Category": "Games",
+    "Name": "nupogodi.fap",
+    "RelativePath": "Games/nupogodi.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Games\\nupogodi.fap"
+  },
+  {
+    "Category": "Games",
+    "Name": "oregon_trail.fap",
+    "RelativePath": "Games/oregon_trail.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Games\\oregon_trail.fap"
+  },
+  {
+    "Category": "Games",
+    "Name": "paint.fap",
+    "RelativePath": "Games/paint.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Games\\paint.fap"
+  },
+  {
+    "Category": "Games",
+    "Name": "paper_plane.fap",
+    "RelativePath": "Games/paper_plane.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Games\\paper_plane.fap"
+  },
+  {
+    "Category": "Games",
+    "Name": "pinball0.fap",
+    "RelativePath": "Games/pinball0.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Games\\pinball0.fap"
+  },
+  {
+    "Category": "Games",
+    "Name": "princeofarabia.fap",
+    "RelativePath": "Games/princeofarabia.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Games\\princeofarabia.fap"
+  },
+  {
+    "Category": "Games",
+    "Name": "quadrastic.fap",
+    "RelativePath": "Games/quadrastic.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Games\\quadrastic.fap"
+  },
+  {
+    "Category": "Games",
+    "Name": "race_game.fap",
+    "RelativePath": "Games/race_game.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Games\\race_game.fap"
+  },
+  {
+    "Category": "Games",
+    "Name": "racegame.fap",
+    "RelativePath": "Games/racegame.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Games\\racegame.fap"
+  },
+  {
+    "Category": "Games",
+    "Name": "racso_sokoban.fap",
+    "RelativePath": "Games/racso_sokoban.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Games\\racso_sokoban.fap"
+  },
+  {
+    "Category": "Games",
+    "Name": "racso_ultimate_tic_tac_toe.fap",
+    "RelativePath": "Games/racso_ultimate_tic_tac_toe.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Games\\racso_ultimate_tic_tac_toe.fap"
+  },
+  {
+    "Category": "Games",
+    "Name": "racso_zero.fap",
+    "RelativePath": "Games/racso_zero.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Games\\racso_zero.fap"
+  },
+  {
+    "Category": "Games",
+    "Name": "reaction.fap",
+    "RelativePath": "Games/reaction.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Games\\reaction.fap"
+  },
+  {
+    "Category": "Games",
+    "Name": "reversi.fap",
+    "RelativePath": "Games/reversi.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Games\\reversi.fap"
+  },
+  {
+    "Category": "Games",
+    "Name": "roots_of_life.fap",
+    "RelativePath": "Games/roots_of_life.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Games\\roots_of_life.fap"
+  },
+  {
+    "Category": "Games",
+    "Name": "rubiks_cube_scrambler.fap",
+    "RelativePath": "Games/rubiks_cube_scrambler.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Games\\rubiks_cube_scrambler.fap"
+  },
+  {
+    "Category": "Games",
+    "Name": "schip.fap",
+    "RelativePath": "Games/schip.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Games\\schip.fap"
+  },
+  {
+    "Category": "Games",
+    "Name": "scorched_tanks.fap",
+    "RelativePath": "Games/scorched_tanks.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Games\\scorched_tanks.fap"
+  },
+  {
+    "Category": "Games",
+    "Name": "secret_toggle.fap",
+    "RelativePath": "Games/secret_toggle.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Games\\secret_toggle.fap"
+  },
+  {
+    "Category": "Games",
+    "Name": "simon_says.fap",
+    "RelativePath": "Games/simon_says.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Games\\simon_says.fap"
+  },
+  {
+    "Category": "Games",
+    "Name": "slotmachine.fap",
+    "RelativePath": "Games/slotmachine.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Games\\slotmachine.fap"
+  },
+  {
+    "Category": "Games",
+    "Name": "snake20.fap",
+    "RelativePath": "Games/snake20.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Games\\snake20.fap"
+  },
+  {
+    "Category": "Games",
+    "Name": "spaceimpactii985e.fap",
+    "RelativePath": "Games/spaceimpactii985e.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Games\\spaceimpactii985e.fap"
+  },
+  {
+    "Category": "Games",
+    "Name": "sudoku.fap",
+    "RelativePath": "Games/sudoku.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Games\\sudoku.fap"
+  },
+  {
+    "Category": "Games",
+    "Name": "t_rex_runner.fap",
+    "RelativePath": "Games/t_rex_runner.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Games\\t_rex_runner.fap"
+  },
+  {
+    "Category": "Games",
+    "Name": "tama_p1.fap",
+    "RelativePath": "Games/tama_p1.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Games\\tama_p1.fap"
+  },
+  {
+    "Category": "Games",
+    "Name": "tanks.fap",
+    "RelativePath": "Games/tanks.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Games\\tanks.fap"
+  },
+  {
+    "Category": "Games",
+    "Name": "tarot.fap",
+    "RelativePath": "Games/tarot.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Games\\tarot.fap"
+  },
+  {
+    "Category": "Games",
+    "Name": "videopoker.fap",
+    "RelativePath": "Games/videopoker.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Games\\videopoker.fap"
+  },
+  {
+    "Category": "Games",
+    "Name": "wave.fap",
+    "RelativePath": "Games/wave.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Games\\wave.fap"
+  },
+  {
+    "Category": "Games",
+    "Name": "wolfenduino.fap",
+    "RelativePath": "Games/wolfenduino.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Games\\wolfenduino.fap"
+  },
+  {
+    "Category": "Games",
+    "Name": "yatzee.fap",
+    "RelativePath": "Games/yatzee.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Games\\yatzee.fap"
+  },
+  {
+    "Category": "GPIO",
+    "Name": "24cxxprog.fap",
+    "RelativePath": "GPIO/24cxxprog.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\GPIO\\24cxxprog.fap"
+  },
+  {
+    "Category": "GPIO",
+    "Name": "air_mouse.fap",
+    "RelativePath": "GPIO/air_mouse.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\GPIO\\air_mouse.fap"
+  },
+  {
+    "Category": "GPIO",
+    "Name": "airmon.fap",
+    "RelativePath": "GPIO/airmon.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\GPIO\\airmon.fap"
+  },
+  {
+    "Category": "GPIO",
+    "Name": "bc_scanner.fap",
+    "RelativePath": "GPIO/bc_scanner.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\GPIO\\bc_scanner.fap"
+  },
+  {
+    "Category": "GPIO",
+    "Name": "camera.fap",
+    "RelativePath": "GPIO/camera.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\GPIO\\camera.fap"
+  },
+  {
+    "Category": "GPIO",
+    "Name": "can_commander.fap",
+    "RelativePath": "GPIO/can_commander.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\GPIO\\can_commander.fap"
+  },
+  {
+    "Category": "GPIO",
+    "Name": "coffee_eeprom.fap",
+    "RelativePath": "GPIO/coffee_eeprom.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\GPIO\\coffee_eeprom.fap"
+  },
+  {
+    "Category": "GPIO",
+    "Name": "coleco.fap",
+    "RelativePath": "GPIO/coleco.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\GPIO\\coleco.fap"
+  },
+  {
+    "Category": "GPIO",
+    "Name": "esp_flasher.fap",
+    "RelativePath": "GPIO/esp_flasher.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\GPIO\\esp_flasher.fap"
+  },
+  {
+    "Category": "GPIO",
+    "Name": "esp8266_ifttt_virtual_button.fap",
+    "RelativePath": "GPIO/esp8266_ifttt_virtual_button.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\GPIO\\esp8266_ifttt_virtual_button.fap"
+  },
+  {
+    "Category": "GPIO",
+    "Name": "esp8266_wifi_deauther_v2.fap",
+    "RelativePath": "GPIO/esp8266_wifi_deauther_v2.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\GPIO\\esp8266_wifi_deauther_v2.fap"
+  },
+  {
+    "Category": "GPIO",
+    "Name": "eth_troubleshooter.fap",
+    "RelativePath": "GPIO/eth_troubleshooter.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\GPIO\\eth_troubleshooter.fap"
+  },
+  {
+    "Category": "GPIO",
+    "Name": "evil_portal.fap",
+    "RelativePath": "GPIO/evil_portal.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\GPIO\\evil_portal.fap"
+  },
+  {
+    "Category": "GPIO",
+    "Name": "flashlight.fap",
+    "RelativePath": "GPIO/flashlight.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\GPIO\\flashlight.fap"
+  },
+  {
+    "Category": "GPIO",
+    "Name": "flipagotchi.fap",
+    "RelativePath": "GPIO/flipagotchi.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\GPIO\\flipagotchi.fap"
+  },
+  {
+    "Category": "GPIO",
+    "Name": "flipper_atomicdiceroller.fap",
+    "RelativePath": "GPIO/flipper_atomicdiceroller.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\GPIO\\flipper_atomicdiceroller.fap"
+  },
+  {
+    "Category": "GPIO",
+    "Name": "flipper_geiger.fap",
+    "RelativePath": "GPIO/flipper_geiger.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\GPIO\\flipper_geiger.fap"
+  },
+  {
+    "Category": "GPIO",
+    "Name": "flipper_spi_terminal.fap",
+    "RelativePath": "GPIO/flipper_spi_terminal.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\GPIO\\flipper_spi_terminal.fap"
+  },
+  {
+    "Category": "GPIO",
+    "Name": "flipperscope.fap",
+    "RelativePath": "GPIO/flipperscope.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\GPIO\\flipperscope.fap"
+  },
+  {
+    "Category": "GPIO",
+    "Name": "fmradio_controller.fap",
+    "RelativePath": "GPIO/fmradio_controller.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\GPIO\\fmradio_controller.fap"
+  },
+  {
+    "Category": "GPIO",
+    "Name": "ghost_esp.fap",
+    "RelativePath": "GPIO/ghost_esp.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\GPIO\\ghost_esp.fap"
+  },
+  {
+    "Category": "GPIO",
+    "Name": "gpio_7segment_output.fap",
+    "RelativePath": "GPIO/gpio_7segment_output.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\GPIO\\gpio_7segment_output.fap"
+  },
+  {
+    "Category": "GPIO",
+    "Name": "gpio_controller.fap",
+    "RelativePath": "GPIO/gpio_controller.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\GPIO\\gpio_controller.fap"
+  },
+  {
+    "Category": "GPIO",
+    "Name": "gpio_reader.fap",
+    "RelativePath": "GPIO/gpio_reader.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\GPIO\\gpio_reader.fap"
+  },
+  {
+    "Category": "GPIO",
+    "Name": "gpio_timelapse.fap",
+    "RelativePath": "GPIO/gpio_timelapse.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\GPIO\\gpio_timelapse.fap"
+  },
+  {
+    "Category": "GPIO",
+    "Name": "gpioreader2.fap",
+    "RelativePath": "GPIO/gpioreader2.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\GPIO\\gpioreader2.fap"
+  },
+  {
+    "Category": "GPIO",
+    "Name": "gps_track.fap",
+    "RelativePath": "GPIO/gps_track.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\GPIO\\gps_track.fap"
+  },
+  {
+    "Category": "GPIO",
+    "Name": "ina_meter.fap",
+    "RelativePath": "GPIO/ina_meter.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\GPIO\\ina_meter.fap"
+  },
+  {
+    "Category": "GPIO",
+    "Name": "lan_tester.fap",
+    "RelativePath": "GPIO/lan_tester.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\GPIO\\lan_tester.fap"
+  },
+  {
+    "Category": "GPIO",
+    "Name": "logic_analyzer.fap",
+    "RelativePath": "GPIO/logic_analyzer.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\GPIO\\logic_analyzer.fap"
+  },
+  {
+    "Category": "GPIO",
+    "Name": "longwave_clock.fap",
+    "RelativePath": "GPIO/longwave_clock.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\GPIO\\longwave_clock.fap"
+  },
+  {
+    "Category": "GPIO",
+    "Name": "lora_terminal.fap",
+    "RelativePath": "GPIO/lora_terminal.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\GPIO\\lora_terminal.fap"
+  },
+  {
+    "Category": "GPIO",
+    "Name": "magspoof.fap",
+    "RelativePath": "GPIO/magspoof.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\GPIO\\magspoof.fap"
+  },
+  {
+    "Category": "GPIO",
+    "Name": "memsic_2125.fap",
+    "RelativePath": "GPIO/memsic_2125.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\GPIO\\memsic_2125.fap"
+  },
+  {
+    "Category": "GPIO",
+    "Name": "mh_z19.fap",
+    "RelativePath": "GPIO/mh_z19.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\GPIO\\mh_z19.fap"
+  },
+  {
+    "Category": "GPIO",
+    "Name": "nrf24_batch.fap",
+    "RelativePath": "GPIO/nrf24_batch.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\GPIO\\nrf24_batch.fap"
+  },
+  {
+    "Category": "GPIO",
+    "Name": "nrf24_mouse_jacker_ms.fap",
+    "RelativePath": "GPIO/nrf24_mouse_jacker_ms.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\GPIO\\nrf24_mouse_jacker_ms.fap"
+  },
+  {
+    "Category": "GPIO",
+    "Name": "nrf24_scanner.fap",
+    "RelativePath": "GPIO/nrf24_scanner.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\GPIO\\nrf24_scanner.fap"
+  },
+  {
+    "Category": "GPIO",
+    "Name": "nrf24_sniffer_ms.fap",
+    "RelativePath": "GPIO/nrf24_sniffer_ms.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\GPIO\\nrf24_sniffer_ms.fap"
+  },
+  {
+    "Category": "GPIO",
+    "Name": "nrf24channelscanner.fap",
+    "RelativePath": "GPIO/nrf24channelscanner.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\GPIO\\nrf24channelscanner.fap"
+  },
+  {
+    "Category": "GPIO",
+    "Name": "nrf24tool.fap",
+    "RelativePath": "GPIO/nrf24tool.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\GPIO\\nrf24tool.fap"
+  },
+  {
+    "Category": "GPIO",
+    "Name": "pokemon.fap",
+    "RelativePath": "GPIO/pokemon.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\GPIO\\pokemon.fap"
+  },
+  {
+    "Category": "GPIO",
+    "Name": "rad_sens.fap",
+    "RelativePath": "GPIO/rad_sens.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\GPIO\\rad_sens.fap"
+  },
+  {
+    "Category": "GPIO",
+    "Name": "rcwl_0516.fap",
+    "RelativePath": "GPIO/rcwl_0516.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\GPIO\\rcwl_0516.fap"
+  },
+  {
+    "Category": "GPIO",
+    "Name": "sd_spi_app.fap",
+    "RelativePath": "GPIO/sd_spi_app.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\GPIO\\sd_spi_app.fap"
+  },
+  {
+    "Category": "GPIO",
+    "Name": "servotester.fap",
+    "RelativePath": "GPIO/servotester.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\GPIO\\servotester.fap"
+  },
+  {
+    "Category": "GPIO",
+    "Name": "servotester2.fap",
+    "RelativePath": "GPIO/servotester2.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\GPIO\\servotester2.fap"
+  },
+  {
+    "Category": "GPIO",
+    "Name": "simultaneous_rfid_reader.fap",
+    "RelativePath": "GPIO/simultaneous_rfid_reader.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\GPIO\\simultaneous_rfid_reader.fap"
+  },
+  {
+    "Category": "GPIO",
+    "Name": "ssd1306_test.fap",
+    "RelativePath": "GPIO/ssd1306_test.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\GPIO\\ssd1306_test.fap"
+  },
+  {
+    "Category": "GPIO",
+    "Name": "stepcounter.fap",
+    "RelativePath": "GPIO/stepcounter.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\GPIO\\stepcounter.fap"
+  },
+  {
+    "Category": "GPIO",
+    "Name": "tesla_mod.fap",
+    "RelativePath": "GPIO/tesla_mod.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\GPIO\\tesla_mod.fap"
+  },
+  {
+    "Category": "GPIO",
+    "Name": "ublox.fap",
+    "RelativePath": "GPIO/ublox.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\GPIO\\ublox.fap"
+  },
+  {
+    "Category": "GPIO",
+    "Name": "uhf_rfid.fap",
+    "RelativePath": "GPIO/uhf_rfid.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\GPIO\\uhf_rfid.fap"
+  },
+  {
+    "Category": "GPIO",
+    "Name": "usping.fap",
+    "RelativePath": "GPIO/usping.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\GPIO\\usping.fap"
+  },
+  {
+    "Category": "GPIO",
+    "Name": "vario.fap",
+    "RelativePath": "GPIO/vario.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\GPIO\\vario.fap"
+  },
+  {
+    "Category": "GPIO",
+    "Name": "video_game_module_console.fap",
+    "RelativePath": "GPIO/video_game_module_console.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\GPIO\\video_game_module_console.fap"
+  },
+  {
+    "Category": "GPIO",
+    "Name": "wch_swio_flasher.fap",
+    "RelativePath": "GPIO/wch_swio_flasher.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\GPIO\\wch_swio_flasher.fap"
+  },
+  {
+    "Category": "GPIO",
+    "Name": "wiegand_reader.fap",
+    "RelativePath": "GPIO/wiegand_reader.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\GPIO\\wiegand_reader.fap"
+  },
+  {
+    "Category": "GPIO",
+    "Name": "wifi_map.fap",
+    "RelativePath": "GPIO/wifi_map.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\GPIO\\wifi_map.fap"
+  },
+  {
+    "Category": "GPIO",
+    "Name": "wii_ec_anal.fap",
+    "RelativePath": "GPIO/wii_ec_anal.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\GPIO\\wii_ec_anal.fap"
+  },
+  {
+    "Category": "GPIO",
+    "Name": "wire_tester.fap",
+    "RelativePath": "GPIO/wire_tester.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\GPIO\\wire_tester.fap"
+  },
+  {
+    "Category": "GPIO",
+    "Name": "ws2812b_tester_app.fap",
+    "RelativePath": "GPIO/ws2812b_tester_app.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\GPIO\\ws2812b_tester_app.fap"
+  },
+  {
+    "Category": "Infrared",
+    "Name": "flame_rng.fap",
+    "RelativePath": "Infrared/flame_rng.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Infrared\\flame_rng.fap"
+  },
+  {
+    "Category": "Infrared",
+    "Name": "flip_rob.fap",
+    "RelativePath": "Infrared/flip_rob.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Infrared\\flip_rob.fap"
+  },
+  {
+    "Category": "Infrared",
+    "Name": "flipirfreq.fap",
+    "RelativePath": "Infrared/flipirfreq.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Infrared\\flipirfreq.fap"
+  },
+  {
+    "Category": "Infrared",
+    "Name": "flipper_xremote.fap",
+    "RelativePath": "Infrared/flipper_xremote.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Infrared\\flipper_xremote.fap"
+  },
+  {
+    "Category": "Infrared",
+    "Name": "ir_intervalometer.fap",
+    "RelativePath": "Infrared/ir_intervalometer.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Infrared\\ir_intervalometer.fap"
+  },
+  {
+    "Category": "Infrared",
+    "Name": "ir_remote.fap",
+    "RelativePath": "Infrared/ir_remote.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Infrared\\ir_remote.fap"
+  },
+  {
+    "Category": "Infrared",
+    "Name": "lidar_emulator.fap",
+    "RelativePath": "Infrared/lidar_emulator.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Infrared\\lidar_emulator.fap"
+  },
+  {
+    "Category": "Infrared",
+    "Name": "pause_timer.fap",
+    "RelativePath": "Infrared/pause_timer.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Infrared\\pause_timer.fap"
+  },
+  {
+    "Category": "Infrared",
+    "Name": "tagtinker.fap",
+    "RelativePath": "Infrared/tagtinker.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Infrared\\tagtinker.fap"
+  },
+  {
+    "Category": "Infrared",
+    "Name": "timed_remote.fap",
+    "RelativePath": "Infrared/timed_remote.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Infrared\\timed_remote.fap"
+  },
+  {
+    "Category": "Infrared",
+    "Name": "xbox_controller.fap",
+    "RelativePath": "Infrared/xbox_controller.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Infrared\\xbox_controller.fap"
+  },
+  {
+    "Category": "Media",
+    "Name": "atm.fap",
+    "RelativePath": "Media/atm.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Media\\atm.fap"
+  },
+  {
+    "Category": "Media",
+    "Name": "bpm_tapper.fap",
+    "RelativePath": "Media/bpm_tapper.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Media\\bpm_tapper.fap"
+  },
+  {
+    "Category": "Media",
+    "Name": "c_book.fap",
+    "RelativePath": "Media/c_book.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Media\\c_book.fap"
+  },
+  {
+    "Category": "Media",
+    "Name": "crypto_dict.fap",
+    "RelativePath": "Media/crypto_dict.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Media\\crypto_dict.fap"
+  },
+  {
+    "Category": "Media",
+    "Name": "executor_keychain.fap",
+    "RelativePath": "Media/executor_keychain.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Media\\executor_keychain.fap"
+  },
+  {
+    "Category": "Media",
+    "Name": "flizzer_tracker.fap",
+    "RelativePath": "Media/flizzer_tracker.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Media\\flizzer_tracker.fap"
+  },
+  {
+    "Category": "Media",
+    "Name": "music_beeper.fap",
+    "RelativePath": "Media/music_beeper.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Media\\music_beeper.fap"
+  },
+  {
+    "Category": "Media",
+    "Name": "ocarina.fap",
+    "RelativePath": "Media/ocarina.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Media\\ocarina.fap"
+  },
+  {
+    "Category": "Media",
+    "Name": "text2sam.fap",
+    "RelativePath": "Media/text2sam.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Media\\text2sam.fap"
+  },
+  {
+    "Category": "Media",
+    "Name": "tuning_fork.fap",
+    "RelativePath": "Media/tuning_fork.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Media\\tuning_fork.fap"
+  },
+  {
+    "Category": "Media",
+    "Name": "usb_midi.fap",
+    "RelativePath": "Media/usb_midi.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Media\\usb_midi.fap"
+  },
+  {
+    "Category": "Media",
+    "Name": "video_player.fap",
+    "RelativePath": "Media/video_player.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Media\\video_player.fap"
+  },
+  {
+    "Category": "Media",
+    "Name": "zero_tracker.fap",
+    "RelativePath": "Media/zero_tracker.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Media\\zero_tracker.fap"
+  },
+  {
+    "Category": "NFC",
+    "Name": "ami_tool.fap",
+    "RelativePath": "NFC/ami_tool.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\NFC\\ami_tool.fap"
+  },
+  {
+    "Category": "NFC",
+    "Name": "iso15693_nfc_writer.fap",
+    "RelativePath": "NFC/iso15693_nfc_writer.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\NFC\\iso15693_nfc_writer.fap"
+  },
+  {
+    "Category": "NFC",
+    "Name": "metroflip.fap",
+    "RelativePath": "NFC/metroflip.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\NFC\\metroflip.fap"
+  },
+  {
+    "Category": "NFC",
+    "Name": "mfp_reader.fap",
+    "RelativePath": "NFC/mfp_reader.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\NFC\\mfp_reader.fap"
+  },
+  {
+    "Category": "NFC",
+    "Name": "mifare_fuzzer.fap",
+    "RelativePath": "NFC/mifare_fuzzer.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\NFC\\mifare_fuzzer.fap"
+  },
+  {
+    "Category": "NFC",
+    "Name": "nfc_apdu_runner.fap",
+    "RelativePath": "NFC/nfc_apdu_runner.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\NFC\\nfc_apdu_runner.fap"
+  },
+  {
+    "Category": "NFC",
+    "Name": "nfc_comparator.fap",
+    "RelativePath": "NFC/nfc_comparator.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\NFC\\nfc_comparator.fap"
+  },
+  {
+    "Category": "NFC",
+    "Name": "nfc_login.fap",
+    "RelativePath": "NFC/nfc_login.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\NFC\\nfc_login.fap"
+  },
+  {
+    "Category": "NFC",
+    "Name": "nfc_playlist.fap",
+    "RelativePath": "NFC/nfc_playlist.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\NFC\\nfc_playlist.fap"
+  },
+  {
+    "Category": "NFC",
+    "Name": "nfc_stock_manager.fap",
+    "RelativePath": "NFC/nfc_stock_manager.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\NFC\\nfc_stock_manager.fap"
+  },
+  {
+    "Category": "NFC",
+    "Name": "passy.fap",
+    "RelativePath": "NFC/passy.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\NFC\\passy.fap"
+  },
+  {
+    "Category": "NFC",
+    "Name": "saflip.fap",
+    "RelativePath": "NFC/saflip.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\NFC\\saflip.fap"
+  },
+  {
+    "Category": "NFC",
+    "Name": "seader.fap",
+    "RelativePath": "NFC/seader.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\NFC\\seader.fap"
+  },
+  {
+    "Category": "NFC",
+    "Name": "seos.fap",
+    "RelativePath": "NFC/seos.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\NFC\\seos.fap"
+  },
+  {
+    "Category": "NFC",
+    "Name": "uk_mbirth_sonicare.fap",
+    "RelativePath": "NFC/uk_mbirth_sonicare.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\NFC\\uk_mbirth_sonicare.fap"
+  },
+  {
+    "Category": "NFC",
+    "Name": "ulc_brute.fap",
+    "RelativePath": "NFC/ulc_brute.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\NFC\\ulc_brute.fap"
+  },
+  {
+    "Category": "NFC",
+    "Name": "ulc_relay.fap",
+    "RelativePath": "NFC/ulc_relay.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\NFC\\ulc_relay.fap"
+  },
+  {
+    "Category": "NFC",
+    "Name": "ulcfkey_next.fap",
+    "RelativePath": "NFC/ulcfkey_next.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\NFC\\ulcfkey_next.fap"
+  },
+  {
+    "Category": "NFC",
+    "Name": "ulcfkey.fap",
+    "RelativePath": "NFC/ulcfkey.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\NFC\\ulcfkey.fap"
+  },
+  {
+    "Category": "NFC",
+    "Name": "vb_migrate.fap",
+    "RelativePath": "NFC/vb_migrate.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\NFC\\vb_migrate.fap"
+  },
+  {
+    "Category": "NFC",
+    "Name": "vk_thermo.fap",
+    "RelativePath": "NFC/vk_thermo.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\NFC\\vk_thermo.fap"
+  },
+  {
+    "Category": "NFC",
+    "Name": "weebo.fap",
+    "RelativePath": "NFC/weebo.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\NFC\\weebo.fap"
+  },
+  {
+    "Category": "RFID",
+    "Name": "fdxb_maker.fap",
+    "RelativePath": "RFID/fdxb_maker.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\RFID\\fdxb_maker.fap"
+  },
+  {
+    "Category": "RFID",
+    "Name": "flipper_rfidbeacon.fap",
+    "RelativePath": "RFID/flipper_rfidbeacon.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\RFID\\flipper_rfidbeacon.fap"
+  },
+  {
+    "Category": "RFID",
+    "Name": "key_generator.fap",
+    "RelativePath": "RFID/key_generator.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\RFID\\key_generator.fap"
+  },
+  {
+    "Category": "RFID",
+    "Name": "rfid_metal_detector.fap",
+    "RelativePath": "RFID/rfid_metal_detector.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\RFID\\rfid_metal_detector.fap"
+  },
+  {
+    "Category": "RFID",
+    "Name": "t5577_multiwriter.fap",
+    "RelativePath": "RFID/t5577_multiwriter.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\RFID\\t5577_multiwriter.fap"
+  },
+  {
+    "Category": "RFID",
+    "Name": "t5577_writer.fap",
+    "RelativePath": "RFID/t5577_writer.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\RFID\\t5577_writer.fap"
+  },
+  {
+    "Category": "Sub-GHz",
+    "Name": "allstar_firefly.fap",
+    "RelativePath": "Sub-GHz/allstar_firefly.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Sub-GHz\\allstar_firefly.fap"
+  },
+  {
+    "Category": "Sub-GHz",
+    "Name": "chief_cooker.fap",
+    "RelativePath": "Sub-GHz/chief_cooker.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Sub-GHz\\chief_cooker.fap"
+  },
+  {
+    "Category": "Sub-GHz",
+    "Name": "esubghz_chat.fap",
+    "RelativePath": "Sub-GHz/esubghz_chat.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Sub-GHz\\esubghz_chat.fap"
+  },
+  {
+    "Category": "Sub-GHz",
+    "Name": "fmf_to_sub.fap",
+    "RelativePath": "Sub-GHz/fmf_to_sub.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Sub-GHz\\fmf_to_sub.fap"
+  },
+  {
+    "Category": "Sub-GHz",
+    "Name": "freq_analyzer_ext.fap",
+    "RelativePath": "Sub-GHz/freq_analyzer_ext.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Sub-GHz\\freq_analyzer_ext.fap"
+  },
+  {
+    "Category": "Sub-GHz",
+    "Name": "genie_record.fap",
+    "RelativePath": "Sub-GHz/genie_record.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Sub-GHz\\genie_record.fap"
+  },
+  {
+    "Category": "Sub-GHz",
+    "Name": "meal_pager.fap",
+    "RelativePath": "Sub-GHz/meal_pager.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Sub-GHz\\meal_pager.fap"
+  },
+  {
+    "Category": "Sub-GHz",
+    "Name": "shapshup.fap",
+    "RelativePath": "Sub-GHz/shapshup.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Sub-GHz\\shapshup.fap"
+  },
+  {
+    "Category": "Sub-GHz",
+    "Name": "sub_analyzer.fap",
+    "RelativePath": "Sub-GHz/sub_analyzer.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Sub-GHz\\sub_analyzer.fap"
+  },
+  {
+    "Category": "Sub-GHz",
+    "Name": "sub_dup_finder.fap",
+    "RelativePath": "Sub-GHz/sub_dup_finder.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Sub-GHz\\sub_dup_finder.fap"
+  },
+  {
+    "Category": "Sub-GHz",
+    "Name": "subghz_playlist_creator.fap",
+    "RelativePath": "Sub-GHz/subghz_playlist_creator.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Sub-GHz\\subghz_playlist_creator.fap"
+  },
+  {
+    "Category": "Sub-GHz",
+    "Name": "subghz_raw_edit.fap",
+    "RelativePath": "Sub-GHz/subghz_raw_edit.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Sub-GHz\\subghz_raw_edit.fap"
+  },
+  {
+    "Category": "Sub-GHz",
+    "Name": "subghz_signal_gen.fap",
+    "RelativePath": "Sub-GHz/subghz_signal_gen.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Sub-GHz\\subghz_signal_gen.fap"
+  },
+  {
+    "Category": "Sub-GHz",
+    "Name": "tpms.fap",
+    "RelativePath": "Sub-GHz/tpms.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Sub-GHz\\tpms.fap"
+  },
+  {
+    "Category": "Sub-GHz",
+    "Name": "wmbuster.fap",
+    "RelativePath": "Sub-GHz/wmbuster.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Sub-GHz\\wmbuster.fap"
+  },
+  {
+    "Category": "Tools",
+    "Name": "analog_clock.fap",
+    "RelativePath": "Tools/analog_clock.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Tools\\analog_clock.fap"
+  },
+  {
+    "Category": "Tools",
+    "Name": "brainfuck.fap",
+    "RelativePath": "Tools/brainfuck.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Tools\\brainfuck.fap"
+  },
+  {
+    "Category": "Tools",
+    "Name": "caesar_cipher.fap",
+    "RelativePath": "Tools/caesar_cipher.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Tools\\caesar_cipher.fap"
+  },
+  {
+    "Category": "Tools",
+    "Name": "calculator.fap",
+    "RelativePath": "Tools/calculator.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Tools\\calculator.fap"
+  },
+  {
+    "Category": "Tools",
+    "Name": "calendar.fap",
+    "RelativePath": "Tools/calendar.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Tools\\calendar.fap"
+  },
+  {
+    "Category": "Tools",
+    "Name": "can_tools.fap",
+    "RelativePath": "Tools/can_tools.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Tools\\can_tools.fap"
+  },
+  {
+    "Category": "Tools",
+    "Name": "cntdown_tim.fap",
+    "RelativePath": "Tools/cntdown_tim.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Tools\\cntdown_tim.fap"
+  },
+  {
+    "Category": "Tools",
+    "Name": "combo_cracker.fap",
+    "RelativePath": "Tools/combo_cracker.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Tools\\combo_cracker.fap"
+  },
+  {
+    "Category": "Tools",
+    "Name": "counter.fap",
+    "RelativePath": "Tools/counter.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Tools\\counter.fap"
+  },
+  {
+    "Category": "Tools",
+    "Name": "dcf77_clock_spoof.fap",
+    "RelativePath": "Tools/dcf77_clock_spoof.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Tools\\dcf77_clock_spoof.fap"
+  },
+  {
+    "Category": "Tools",
+    "Name": "dcf77.fap",
+    "RelativePath": "Tools/dcf77.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Tools\\dcf77.fap"
+  },
+  {
+    "Category": "Tools",
+    "Name": "flip_crypt.fap",
+    "RelativePath": "Tools/flip_crypt.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Tools\\flip_crypt.fap"
+  },
+  {
+    "Category": "Tools",
+    "Name": "flipbip.fap",
+    "RelativePath": "Tools/flipbip.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Tools\\flipbip.fap"
+  },
+  {
+    "Category": "Tools",
+    "Name": "flipp_pomodoro.fap",
+    "RelativePath": "Tools/flipp_pomodoro.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Tools\\flipp_pomodoro.fap"
+  },
+  {
+    "Category": "Tools",
+    "Name": "flipper_chronometer.fap",
+    "RelativePath": "Tools/flipper_chronometer.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Tools\\flipper_chronometer.fap"
+  },
+  {
+    "Category": "Tools",
+    "Name": "flipper_wedge.fap",
+    "RelativePath": "Tools/flipper_wedge.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Tools\\flipper_wedge.fap"
+  },
+  {
+    "Category": "Tools",
+    "Name": "fordradiocode.fap",
+    "RelativePath": "Tools/fordradiocode.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Tools\\fordradiocode.fap"
+  },
+  {
+    "Category": "Tools",
+    "Name": "hex_editor.fap",
+    "RelativePath": "Tools/hex_editor.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Tools\\hex_editor.fap"
+  },
+  {
+    "Category": "Tools",
+    "Name": "iconedit.fap",
+    "RelativePath": "Tools/iconedit.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Tools\\iconedit.fap"
+  },
+  {
+    "Category": "Tools",
+    "Name": "key_copier.fap",
+    "RelativePath": "Tools/key_copier.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Tools\\key_copier.fap"
+  },
+  {
+    "Category": "Tools",
+    "Name": "multi_counter.fap",
+    "RelativePath": "Tools/multi_counter.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Tools\\multi_counter.fap"
+  },
+  {
+    "Category": "Tools",
+    "Name": "nickname_generator.fap",
+    "RelativePath": "Tools/nickname_generator.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Tools\\nickname_generator.fap"
+  },
+  {
+    "Category": "Tools",
+    "Name": "nightstand.fap",
+    "RelativePath": "Tools/nightstand.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Tools\\nightstand.fap"
+  },
+  {
+    "Category": "Tools",
+    "Name": "passgen.fap",
+    "RelativePath": "Tools/passgen.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Tools\\passgen.fap"
+  },
+  {
+    "Category": "Tools",
+    "Name": "pomodoro_timer.fap",
+    "RelativePath": "Tools/pomodoro_timer.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Tools\\pomodoro_timer.fap"
+  },
+  {
+    "Category": "Tools",
+    "Name": "programmercalc.fap",
+    "RelativePath": "Tools/programmercalc.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Tools\\programmercalc.fap"
+  },
+  {
+    "Category": "Tools",
+    "Name": "qrcode.fap",
+    "RelativePath": "Tools/qrcode.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Tools\\qrcode.fap"
+  },
+  {
+    "Category": "Tools",
+    "Name": "resistors.fap",
+    "RelativePath": "Tools/resistors.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Tools\\resistors.fap"
+  },
+  {
+    "Category": "Tools",
+    "Name": "sd_info.fap",
+    "RelativePath": "Tools/sd_info.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Tools\\sd_info.fap"
+  },
+  {
+    "Category": "Tools",
+    "Name": "segment_clock.fap",
+    "RelativePath": "Tools/segment_clock.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Tools\\segment_clock.fap"
+  },
+  {
+    "Category": "Tools",
+    "Name": "theme_manager.fap",
+    "RelativePath": "Tools/theme_manager.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Tools\\theme_manager.fap"
+  },
+  {
+    "Category": "Tools",
+    "Name": "tone_gen.fap",
+    "RelativePath": "Tools/tone_gen.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Tools\\tone_gen.fap"
+  },
+  {
+    "Category": "Tools",
+    "Name": "trackerflipx.fap",
+    "RelativePath": "Tools/trackerflipx.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Tools\\trackerflipx.fap"
+  },
+  {
+    "Category": "Tools",
+    "Name": "upython.fap",
+    "RelativePath": "Tools/upython.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Tools\\upython.fap"
+  },
+  {
+    "Category": "Tools",
+    "Name": "vin_decoder.fap",
+    "RelativePath": "Tools/vin_decoder.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Tools\\vin_decoder.fap"
+  },
+  {
+    "Category": "Tools",
+    "Name": "zerofido.fap",
+    "RelativePath": "Tools/zerofido.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\Tools\\zerofido.fap"
+  },
+  {
+    "Category": "USB",
+    "Name": "hidtransfer.fap",
+    "RelativePath": "USB/hidtransfer.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\USB\\hidtransfer.fap"
+  },
+  {
+    "Category": "USB",
+    "Name": "ldtoypad.fap",
+    "RelativePath": "USB/ldtoypad.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\USB\\ldtoypad.fap"
+  },
+  {
+    "Category": "USB",
+    "Name": "usb_ccb.fap",
+    "RelativePath": "USB/usb_ccb.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\USB\\usb_ccb.fap"
+  },
+  {
+    "Category": "USB",
+    "Name": "usb_hid_autofire.fap",
+    "RelativePath": "USB/usb_hid_autofire.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\USB\\usb_hid_autofire.fap"
+  },
+  {
+    "Category": "USB",
+    "Name": "xinput_controller.fap",
+    "RelativePath": "USB/xinput_controller.fap",
+    "FullPath": "C:\\Users\\VIP\\Desktop\\all-the-apps-extra\\extra_pack_build\\artifacts-extra\\USB\\xinput_controller.fap"
+  }
+]
